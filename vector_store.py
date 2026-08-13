@@ -13,8 +13,7 @@ os.makedirs(INDEX_DIR, exist_ok=True)
 
 
 model = SentenceTransformer(
-    "./models/all-MiniLM-L6-v2",
-    local_files_only=True
+    "sentence-transformers/all-MiniLM-L6-v2"
 )
 
 
