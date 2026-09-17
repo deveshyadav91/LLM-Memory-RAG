@@ -168,7 +168,7 @@ memory-rag-lite/
 | Component            | Technology              |
 | -------------------- | ----------------------- |
 | Programming Language | Python                  |
-| LLM                  | Google Gemini 2.5 Flash |
+| LLM                  | Google Gemini 3.5 Flash |
 | Embedding Model      | all-MiniLM-L6-v2        |
 | Vector Database      | FAISS                   |
 | Memory Storage       | Markdown                |
